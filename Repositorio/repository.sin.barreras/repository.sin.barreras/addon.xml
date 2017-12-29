@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.sin.barreras" name="[COLOR orange]sin.barreras[/COLOR] Repo" version="1.0.0" provider-name="sinbarreras">
+<addon id="repository.sin.barreras" name="[COLOR orange]sin.barreras[/COLOR] Repo" version="1.0.0" provider-name="torete">
     <extension point="xbmc.addon.repository" name="sin barreras ">
         <info>https://raw.githubusercontent.com/sinbarreras/sin-barreras/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/sinbarreras/sin-barreras/master/Repositorio/addons.xml.md5</checksum>
